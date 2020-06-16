@@ -1,4 +1,4 @@
-# Advanced-Machine-Learning
+# Advanced Machine Learning (DSC478 DePaul): Assignments
 This class focused on building machine learning models through Python. All the coursework are done in Jupyter Notebooks and can be viewed within the Github interface.
 
 Here is a list of all the various topics covered throughout the course:
