@@ -4,8 +4,8 @@ This class focused on building machine learning models through Python. All the c
 Here is a list of all the various topics covered throughout the course:
 
 - Data Mining and Knowledge Discovery
-The KDD process and methodology
-Data preparation for knowledge discovery
+- The KDD process and methodology
+-Data preparation for knowledge discovery
 Overview of data mining and Machine Learning techniques
 Review of Python and overview of Python tools for Data Analysis
 Supervised Techniques
